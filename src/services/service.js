@@ -4,7 +4,7 @@ import Cookies from "js-cookie";
 
 dotenv.config({ path: './config.env' });
 
-const resapi=process.env.resapi;
+const resapi="https://fitnessspring.herokuapp.com/";
 
 class fitservice {
 
